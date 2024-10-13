@@ -1,0 +1,9 @@
+{
+    "pg_cleanup_path": "e:\\Program Files\\PostgreSQL 1C\\16\\bin\\psql.exe",
+    "host": "localhost",
+    "port": "5432",
+    "username": "postgres",
+    "telegram_notifications_enabled": true,
+    "telegram_script_path": "c:\\Scripts\\send_to_telegram_7.exe",
+    "prefix": "Vector (trail factory): "
+}
